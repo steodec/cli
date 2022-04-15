@@ -1,0 +1,15 @@
+{
+  "name": "steodec/cli",
+  "autoload": {
+    "psr-4": {
+      "Steodec\\Cli\\": "src/"
+    }
+  },
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Steodec",
+      "email": "paul.tedesco@humbrain.com"
+    }
+  ]
+}
